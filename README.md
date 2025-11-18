@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://via.placeholder.com/900x200/1F2937/FFFFFF?text=H%C3%A0+Th%E1%BB%8B+Qu%E1%BB%B3nh+Anh+-+Information+Systems+Management" alt="Banner"/>
-</p>
-
 # 👋 Hi, I'm Hà Thị Quỳnh Anh
 
 🎓 Fourth-year student majoring in **Information Systems Management** at *University of Economics – The University of Danang*.  
@@ -14,8 +9,8 @@
 ---
 
 ## 🌐 Socials
-[![Facebook](https://www.facebook.com/ha.quynhanh.9461)](#)
-[![Instagram](https://www.instagram.com/hnyu_hna/)](#)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ha.quynhanh.9461)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hnyu_hna/)
 
 ---
 
