@@ -35,23 +35,6 @@
 
 ---
 
-## 📂 Projects
-| Project | Description | Link |
-|---------|-------------|------|
-| System Design | Designed a sample business workflow system | [Repo](#) |
-| Data Analysis | Analyzed sales data and visualized trends using Power BI | [Repo](#) |
-| Automation Testing | Developed automated test scripts for web applications | [Repo](#) |
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=123Quynhanh&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=123Quynhanh&theme=radical" alt="Profile Summary"/>
-</p>
-
----
-
 ## 📬 Contact
 📧 Email: **haquynhanh4124@gmail.com**  
 📞 Phone: **0825221751**
