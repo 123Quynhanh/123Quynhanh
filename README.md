@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hà Thị Quỳnh Anh
 
-🎓 Fourth-year student majoring in **Management Information Systems** at *Da Nang University of Economics.*.  
+🎓 Fourth-year student majoring in **Management Information Systems** at **Da Nang University of Economics.**.  
 💡 Passionate about **technology, data analysis, and business analysis**, especially leveraging data for decision-making.  
 🧩 Experienced in **Agile, Scrum, Waterfall**, **Test Cases, Automation Testing**, and **business workflow modeling** using *Draw.io, Camunda, Figma*.  
 🧠 Skilled in **SQL**, **Python, C#, JavaScript**, and tools for **data visualization & analysis** like *Power BI, Weka, Orange, PostgreSQL*.  
